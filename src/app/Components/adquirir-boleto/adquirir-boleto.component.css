@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+}
+
+
+#adquirirImage{
+
+    width: 80%;
+    margin-top: 40px;
+   margin-left: 50px;
+
+
+}
+#row{
+    margin-left: 0px;
+}
+
+#titulo1{
+
+    font-family: myhelveticabold;
+    text-align: center;
+}
+#titulo11{
+
+    font-family: myhelveticabold;
+    text-align: left;
+}
+
+#titulo2{
+
+    font-family: myhelveticabold;
+    text-align: left;
+}
+#infoevento{
+
+    font-family: myhelvetica;
+    text-align: center;    
+}

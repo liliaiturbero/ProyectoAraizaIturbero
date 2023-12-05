@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+}
+
+
+#interesImage{
+
+    width: 70%;
+    margin-top: 40px;
+   margin-left: 100px;
+
+}
+
+
+#titulo1{
+
+    font-family: myhelveticabold;
+    text-align: center;
+}
+
+#titulo2{
+
+    font-family: myhelveticabold;
+    text-align: left;
+}
+#infoevento{
+
+    font-family: myhelvetica;
+    text-align: center;    
+}

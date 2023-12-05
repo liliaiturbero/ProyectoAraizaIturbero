@@ -1,0 +1,40 @@
+
+.carousell{
+   min-height: 700px;
+margin: 0%;
+}
+
+.carousel { 
+    min-height: 770px;
+   
+    }
+
+.center-align{
+    justify-content: center;
+    font-family: magazine;
+    
+}
+.carousel-fixed-item{
+    bottom:30% !important;
+}
+#first{
+    font-size: 50px !important;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#second{
+    font-size: 50px !important;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.explora{
+    font-family: myhelveticalight;
+    width: 190px;
+    
+    font-size: 20px !important;
+
+   
+    }
+    
+

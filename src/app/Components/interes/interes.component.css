@@ -1,0 +1,21 @@
+
+
+.card{
+    width: 300px;
+}
+
+#evento{
+
+    text-align: right;
+    font-family: myhelveticabold;
+}
+
+hr {
+    
+    top: -30px;
+    border: none;
+    height: 1px;
+    background: black;
+    margin-bottom: 25px;
+   
+}

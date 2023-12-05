@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+.test{
+    border:  1px solid magenta;
+}
+
+#titulos{
+
+    font-family: magazine;
+}
+
+
+#titulo{
+
+    font-family: magazine;
+    text-align: center;
+}
+
+@font-face{
+    font-family: magazine;
+    src: url(./assets/Magazine.ttf);
+
+    font-family: myhelvetica;
+    src: url(./assets/Helvetica.ttf);
+
+    font-family: myhelveticabold;
+    src: url(./assets/Helvetica-Bold.ttf);
+}
+
+@font-face{
+    
+    font-family: myhelvetica;
+    src: url(./assets/Helvetica.ttf);
+}
+
+@font-face{
+
+    font-family: myhelveticalight;
+    src: url(./assets/helvetica-light-587ebe5a59211.ttf);
+}

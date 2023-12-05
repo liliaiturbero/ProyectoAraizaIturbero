@@ -1,0 +1,30 @@
+.page-footer {
+    width: 100%;
+    height: 150px;
+   
+}
+
+.container{
+    margin: 0px;
+}
+
+#text{
+    font-size:medium;
+    font-family: myhelvetica;
+    
+}
+
+
+#boton{
+   
+    border-radius: 25px;
+    font-family: myhelvetica;
+    height: 30px;
+    font-size: small;
+    
+}
+#down{
+    margin-top: 20px;
+    
+}
+
